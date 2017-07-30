@@ -1,6 +1,6 @@
-package com.vnicers.patterns.observer.subject;
+package com.vnicers.patterns.observer.simple.subject;
 
-import com.vnicers.patterns.observer.Observer;
+import com.vnicers.patterns.observer.simple.Observer;
 import lombok.extern.slf4j.Slf4j;
 
 

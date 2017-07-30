@@ -1,7 +1,7 @@
-package com.vnicers.patterns.observer;
+package com.vnicers.patterns.observer.simple;
 
-import com.vnicers.patterns.observer.subject.ConcreteSubject;
-import com.vnicers.patterns.observer.subject.Subject;
+import com.vnicers.patterns.observer.simple.subject.ConcreteSubject;
+import com.vnicers.patterns.observer.simple.subject.Subject;
 
 public class Main {
     public static void main(String[] args) {

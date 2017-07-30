@@ -1,6 +1,6 @@
-package com.vnicers.patterns.observer.subject;
+package com.vnicers.patterns.observer.simple.subject;
 
-import com.vnicers.patterns.observer.Observer;
+import com.vnicers.patterns.observer.simple.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
