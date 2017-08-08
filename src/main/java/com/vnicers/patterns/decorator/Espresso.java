@@ -1,8 +1,10 @@
 package com.vnicers.patterns.decorator;
 
 public class Espresso extends Beverage {
-    public Espresso() {
-        super.description = "Espresso";
+    private Beverage beverage;
+
+    public Espresso(Beverage beverage) {
+        this.beverage = beverage;
     }
 
     @Override
